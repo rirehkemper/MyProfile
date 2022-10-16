@@ -1,0 +1,47 @@
+/* Place your CSS styles in this file */
+
+h1 {
+  text-align: center;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: normal;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+p {
+  text-align: justify;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: normal;
+  -webkit-text-fill-color: rgb(32, 121, 128);
+}
+
+img {
+  image-rendering: url("profileImage.jpg");
+}
+
+body {
+  /* background-image: url("clouds.jpg");
+  background-color: #1d1097;
+  background-repeat: no-repeat;
+  background-size: cover;  */
+  color: rgb(250, 17, 17);
+  font-size: 160%;
+  text-align: center;
+}
+
+.background {
+  /* background-image: url(".jpg");  */
+  background-color: #070707;
+  /* background-repeat: repeat; */
+
+  /* background-size: cover; */
+  opacity: 0.9;
+}
+
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+}
