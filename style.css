@@ -15,7 +15,7 @@ body{
     background: #f5f6fa;
 }
 
-.wrapper .sidebar .profile img{
+.wrapper .sidebar .profile {
     background: rgb(5, 68, 104);
     position: fixed;
     top: 0;
